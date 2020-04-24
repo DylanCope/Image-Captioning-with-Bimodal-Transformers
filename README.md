@@ -641,7 +641,7 @@ if ckpt_manager.latest_checkpoint:
 
 For lack of resources, we will not train the model to convergence. 
 
-<img src="loss.png" width="600">
+<img src="loss.PNG" width="600">
 
 
 ```python
