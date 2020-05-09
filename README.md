@@ -8,6 +8,12 @@ We will construct the bimodal transformer to aggregate image and language inform
 
 <img src="bmt_architecture.png" width="600">
 
+## Running this notebook
+
+The conda environment is provided in the `env.yaml`, which should be enough to recreate the set-up. 
+Note: the code was written with the GPU version of tensorflow, which has some discrepencies with the CPU-only version. 
+
+## Imports
 
 ```python
 from datetime import datetime 
